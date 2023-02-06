@@ -1,6 +1,6 @@
 # vite-compiled-phantom-bookmarks
 
-This is the precompiled assets from the following project:
+These are the precompiled assets from the following project:
 
 https://github.com/AJCJ1/phantomsbookmarkproject
 
